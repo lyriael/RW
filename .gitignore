@@ -1,0 +1,6 @@
+*.aux
+*mk
+*.log
+*.toc
+*.gz
+alt/
